@@ -1,0 +1,46 @@
+﻿Exercice 2.1
+231
+462
+
+Exercice 2.2
+Variables val, carre en Numériques 
+Début 
+Ecrire "donnez un nombre :"
+Lire VAL
+Carre ← Val ^ 2 
+Ecrire "le carré est : "
+Ecrire Carre
+Fin
+
+Exercice 2.3
+Variables prixht, articlenb, tauxtva, totalttc en Numériques 
+Début 
+Ecrire "donnez le prix HT de l'article :"
+Lire prixht
+Ecrire "donnez le nombre d'article :"
+Lire articlenb
+Ecrire "donnez le taux de TVA en % :"
+Lire tauxtva
+totalttc ← ((tauxtva/100) * prixht)+ prixht) * articlenb
+Ecrire "le prix total TTC est de : "
+Ecrire totalttc
+Fin
+
+Exercice 2.4
+Variables parti1, parti2, parti3, parti4, parti5, parti6, parti7 en Caractères
+Début 
+parti1 ← "Belle Marquise "
+parti2 ← "vos "
+parti3 ← "beaux "
+parti4 ← "yeux "
+parti5 ← "me font "
+parti6 ← "mourir "
+parti7 ← "d'amour "
+Ecrire parti7+parti6+parti5+parti1+parti2+parti3+parti4
+
+
+
+
+
+
+Fin

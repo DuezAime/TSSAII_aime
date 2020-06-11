@@ -1,0 +1,5 @@
+SI 	tutu <= Toto+4 ET tata <> "OK" ALORS
+	tutu = tutu - 1
+SINON
+	tutu = tutu + 1
+FINSI
