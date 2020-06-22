@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1592840112 source:u:\59011-71-03\tssaii_aime\02 language c\exo 4.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+
+1592816074 source:u:\grp-71\59011-71-03\tssaii_aime\02 language c\exo 4.5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
