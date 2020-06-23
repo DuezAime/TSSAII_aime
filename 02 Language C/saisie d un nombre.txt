@@ -1,0 +1,8 @@
+    do
+    {
+        fflush(stdin);
+        printf("Donner un nombre :");
+        defaut = scanf("%d",&nombre);
+        printf("\n");
+    }
+    while(defaut == 0 );
